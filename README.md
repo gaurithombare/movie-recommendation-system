@@ -11,7 +11,7 @@ This is a **content-based movie recommendation system** built using **cosine sim
 
 ## 🚀 Project Demo
 
-[Live Demo (if deployed)](https://your-deployment-link.com)
+[Live Demo ](https://your-deployment-link.com)
 
 ## 📌 Features
 
