@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="mv_recommendation_system_image.png" width="100%"/>
+</p>
+
+
+
+
 # 🎬 Movie Recommendation System
 
 This is a **content-based movie recommendation system** built using **cosine similarity**. The app allows users to select a movie, and it recommends similar movies based on content features such as genres, keywords, and other metadata.
