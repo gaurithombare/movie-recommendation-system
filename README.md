@@ -23,7 +23,13 @@ This is a **content-based movie recommendation system** built using **cosine sim
 
 ## 📂 Project Structure
 
-movie-recommendation-system/ ├── app.py # Streamlit app script ├── movies.csv # Movie metadata file ├── similarity.pkl # Pickle file containing cosine similarity matrix ├── movies_dict.pkl # Pickle file with movie metadata dictionary ├── requirements.txt # List of dependencies ├── README.md # Project documentation └── .gitignore # Files and folders to ignore in Git
-
-
+```plaintext
+movie-recommendation-system/
+├── app.py                     # Streamlit app script
+├── movies.csv                 # Movie metadata file
+├── similarity.pkl             # Pickle file containing cosine similarity matrix
+├── movies_dict.pkl            # Pickle file with movie metadata dictionary
+├── requirements.txt           # List of dependencies
+├── README.md                  # Project documentation
+└── .gitignore                 # Files and folders to ignore in Git
 
