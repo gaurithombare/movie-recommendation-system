@@ -54,4 +54,3 @@ if st.button('Recommend'):
         with col:
             st.text(names[idx])
             st.image(posters[idx], use_container_width=True)
-
