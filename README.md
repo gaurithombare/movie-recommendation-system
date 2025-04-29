@@ -1,7 +1,3 @@
-# movie-recommendation-system
-A movie recommendation system built using Python and Streamlit. It uses cosine similarity for content-based filtering to suggest personalized movies based on user preferences. The system is designed to offer seamless movie discovery with an interactive and user-friendly interface.
-
-
 # 🎬 Movie Recommendation System
 
 This is a **content-based movie recommendation system** built using **cosine similarity**. The app allows users to select a movie, and it recommends similar movies based on content features such as genres, keywords, and other metadata.
@@ -26,4 +22,8 @@ This is a **content-based movie recommendation system** built using **cosine sim
 - Pickle (for saving preprocessed data)
 
 ## 📂 Project Structure
+
+movie-recommendation-system/ ├── app.py # Streamlit app script ├── movies.csv # Movie metadata file ├── similarity.pkl # Pickle file containing cosine similarity matrix ├── movies_dict.pkl # Pickle file with movie metadata dictionary ├── requirements.txt # List of dependencies ├── README.md # Project documentation └── .gitignore # Files and folders to ignore in Git
+
+
 
